@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7522C011-FDFE-418D-B8E5-432116C510E0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Camera2Raw AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce021712b20d586d0c" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="AutoFitTextureView.cs" Line="1" Column="1" />
+      <File FileName="Camera2RawFragment.cs" Line="567" Column="5" />
+      <File FileName="CameraActivity.cs" Line="1" Column="1" />
+      <File FileName="Properties/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lord/Documents/Repository/Not Hotdog/Camera2RawFragment.cs" relfile="Camera2RawFragment.cs" line="570" column="9" />
+      <Breakpoint file="/Users/lord/Documents/Repository/Not Hotdog/Camera2RawFragment.cs" relfile="Camera2RawFragment.cs" line="566" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
